@@ -248,7 +248,7 @@ body._lock {
 		justify-content: center;
 		align-items: center;
 		background-color: #ec5863;
-		padding: 100px 100px 50px;
+		padding: 100px 70px 50px;
 		transition: left 0.3s ease 0s;
 	}
 	.menu__body._active {
