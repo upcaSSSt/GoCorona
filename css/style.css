@@ -113,7 +113,7 @@ body._lock {
 }
 
 @media (max-width: 810px) {
-	.square:not(.media-stay-safe__body > .square) {
+	.square:not(.media-stay-safe__body .square) {
 		display: none;
 	}
 }
