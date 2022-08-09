@@ -1,6 +1,6 @@
 const headerBurger = document.querySelector('.header__burger');
+const menuBody = document.querySelector('.menu__body');
 if (headerBurger) {
-	const menuBody = document.querySelector('.menu__body');
 	headerBurger.addEventListener("click", function(e) {
 		document.body.classList.toggle('_lock');
 		headerBurger.classList.toggle('_active');
